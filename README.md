@@ -22,8 +22,8 @@
 ## Ementa
 
 - 📁- BackEnd
-  - 📂 - Introdução ao JavaScript
-  - 📂 - Conhecendo NodeJS
+  - 📂 ✅ - Introdução ao JavaScript
+  - 📂 ✅ - Conhecendo NodeJS
 - 📁- FrontEnd
   - 📂 - Fundamentos do React
 - 📁- Projetos
